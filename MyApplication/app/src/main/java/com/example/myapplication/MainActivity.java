@@ -54,7 +54,6 @@ public class MainActivity extends AppCompatActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         // as you specify a parent activity in AndroidManifest.xml.
         int iy0 = 0 ; 
-	int iy0 = 0 ; 
 
         int id = item.getItemId();
  
